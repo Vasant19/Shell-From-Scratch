@@ -25,15 +25,9 @@ Clone the repository:
 git clone https://github.com/Vasant19/Shell-from-Scratch.git
 cd Shell-from-Scratch
 ```
-Run the shell:
-
-bash
-Copy code
-./my_shell
 Usage
 Once the shell is running, you can type commands like:
 
-bash
 Copy code
 $ ls -l
 $ pwd
@@ -56,6 +50,9 @@ Create a new branch (git checkout -b feature-branch)
 Commit your changes (git commit -m 'Add some feature')
 Push to the branch (git push origin feature-branch)
 Open a pull request
+
+#### Questions
+if you need any assistance or if I've overlooked something, please don't hesitate to reach out
 
 #### License : MIT (OS)
 
