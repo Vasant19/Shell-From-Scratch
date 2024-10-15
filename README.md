@@ -1,7 +1,7 @@
 ## This repository contains my solution to the [Codecrafters Shell Challenge](https://codecrafters.io/).
 [![Repo in Progress](https://img.shields.io/badge/Repo%20in%20Progress-brightgreen.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO)
 
-![image](https://github.com/user-attachments/assets/04ec60a9-03ce-4701-829e-b2016a846a36)
+<img src="https://img.shields.io/badge/Repo%20in%20Progress-brightgreen.svg" alt="Repo in Progress" width="150" />
 
 It's a minimal shell implemented from scratch that can execute commands, handle processes, and offer basic shell functionalities. 
 
