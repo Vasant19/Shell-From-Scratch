@@ -1,5 +1,4 @@
 ## This repository contains my solution to the [Codecrafters Shell Challenge](https://codecrafters.io/).
-<img src="https://img.shields.io/badge/Repo%20in%20Progress-brightgreen.svg" alt="Repo in Progress" width="150" />
 
 ![Screenshot 2024-10-14 182332](https://github.com/user-attachments/assets/73cfa6e8-0ed0-4bf4-b87b-b7b191984406)
 
