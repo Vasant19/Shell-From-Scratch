@@ -6,6 +6,7 @@
 *.pdb
 *.obj
 *.ilk
+test2.py
 test.cpp
 test.py
 .vscode
