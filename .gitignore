@@ -1,0 +1,11 @@
+*.log
+*.pyc
+*.swp
+*.pyo
+*.exe
+*.pdb
+*.obj
+*.ilk
+test.cpp
+test.py
+.vscode
